@@ -45,5 +45,13 @@ Unity / ARFoundation / GeospatialAPI / PLATEAU SDK / (Stable Diffusion) / (Blend
 ### 具体的な担当箇所
 主にバックグラウンド側を担当。生成した画像の緯度・経度・高度・向きをGeospatialAPIを使用して取得し、Firebaseに保存できるようにした。また、PLATEAUと併用することで現実の建物とのオクルージョンを実現し、生成された画像オブジェクトが自然な形で建物の陰から現れる/隠れるようにした。
 
-### 学んだこと
+### 学んだこと・良かったことなど
 ・初めてのハッカソンであったため、限られた期間でのチーム開発の大変さや楽しさを知った。
+・実際に新宿のNEUUや都庁広場などで一般の人に体験してもらうところまでいくことができた。
+・自分に割り振られた役割を遂行するために粘り強く調べ、試し、完成させることができた。
+・それまで漠然としていたARに対する知見をより鮮明なものにすることができ、XR系の技術の面白さを再認識した。
+
+#### NEUUの未来都市withARハッカソン特設サイト
+https://neuu.jp/miraitoshi
+
+<img width="568" alt="NEUU_areal-AirReal" src="https://user-images.githubusercontent.com/115085374/220935225-e1ea5028-cedd-4cd6-9468-bf46d5ca0512.png">
