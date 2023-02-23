@@ -1,4 +1,5 @@
-### Hi there 👋
+### プロフィール
+## 名城大学
 
 <!--
 **MR-1213/MR-1213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
