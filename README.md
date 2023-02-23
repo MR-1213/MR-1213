@@ -18,7 +18,7 @@ XR系エンジニアとしてAR・VRの活用場面をもっと増やしたい�
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/MR_IdTe/followers.svg)](http://qiita.com/MR_IdTe)
 
 ### Twitter
-<a href="http://twitter.com/yutkat">
+<a href="http://twitter.com/MR_1213_">
     <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
   </a>
 
