@@ -22,7 +22,10 @@ XR系エンジニアとしてAR・VRの活用場面をもっと増やしたい�
     <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
   </a>  
 
+### Trophies & Most Used Languages
 [![trophy](https://github-profile-trophy.vercel.app/?username=MR-1213)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-1213&layout=compact)]
+(https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MR-1213/MR-1213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
