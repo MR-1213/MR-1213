@@ -2,6 +2,7 @@
 #### 名前 : 宮本 陸
 #### 職業 : 大学生(情報工学専攻)
 #### 大学 : 名城大学
+#### 所属学生団体 : Idea×Tech 
 #### 趣味 : ゲーム・アニメ
 #### 資格 : 基本情報技術者
 ### 将来の展望
@@ -29,6 +30,17 @@ XR系エンジニアとしてAR・VRの活用場面をもっと増やしたい�
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-1213&layout=compact&hide=c%2B%2B,c)
 
 # My Career
-## Hackathon ~未来都市withARハッカソン~
+## Hackathon ～未来都市withARハッカソン～
 
+### 概要
+「新宿を舞台に未来の都市体験を創造せよ」をテーマとしてARの作品を制作、発表する。自身の所属するIdea×Techのメンバー5人と共にUnityエンジニアとして参加した。
+
+### 使用技術・フレームワーク(カッコ付きは自身の触れていない使用技術)
+Unity / ARFoundation / GeospatialAPI / PLATEAU SDK / (Stable Diffusion) / (Blender) / (AWS) / (Firebase)
+
+### 開発物
+「シンジュクを、‘映え’の世界に染め上げて」をテーマにしており、その場所で感じた感情を絵で表現し、その絵を用いて新しい画像として生成されるアプリ。
+また、生成した画像と場所が保存されるため、他の人が書いた絵見ることもできる。
+
+### 具体的な担当箇所
 
