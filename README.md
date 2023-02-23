@@ -30,8 +30,7 @@ XR系エンジニアとしてAR・VRの活用場面をもっと増やしたい�
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-1213&layout=compact&hide=c%2B%2B,c)
 
 # My Career
-## 2022年12月
-## Hackathon ～未来都市withARハッカソン～
+## Hackathon ～未来都市withARハッカソン～ (2022/12)
 
 ### 概要
 「新宿を舞台に未来の都市体験を創造せよ」をテーマとしてARの作品を制作、発表する。自身の所属するIdea×Techのメンバー5人と共にUnityエンジニアとして参加した。
