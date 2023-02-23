@@ -24,7 +24,7 @@ XR系エンジニアとしてAR・VRの活用場面をもっと増やしたい�
 
 ### Trophies & Most Used Languages
 ![trophy](https://github-profile-trophy.vercel.app/?username=MR-1213)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-1213&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-1213&layout=compact&hide=c++)
 
 <!--
 **MR-1213/MR-1213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
