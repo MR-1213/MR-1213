@@ -30,7 +30,7 @@ XR系エンジニアとしてAR・VRの活用場面をもっと増やしたい�
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-1213&layout=compact&hide=c%2B%2B,c)
 
 # My Career
-## 2022/12
+## 2022年12月
 ## Hackathon ～未来都市withARハッカソン～
 
 ### 概要
