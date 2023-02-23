@@ -20,9 +20,8 @@ XR系エンジニアとしてAR・VRの活用場面をもっと増やしたい�
 ### Twitter
 <a href="http://twitter.com/MR_1213_">
     <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
-  </a>
+  </a>  
 
- 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MR-1213)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
