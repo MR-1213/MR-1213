@@ -10,7 +10,6 @@ XR系エンジニアとしてAR・VRの活用場面をもっと増やしたい�
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/MR_IdTe/posts.svg)](http://qiita.com/MR_IdTe)
 # My Qiita contributions
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/MR_IdTe/contributions.svg)](http://qiita.com/MR_IdTe)
-# My Qiita followers
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/MR_IdTe/followers.svg)](http://qiita.com/MR_IdTe)
 
 
