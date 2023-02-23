@@ -1,5 +1,9 @@
 ### プロフィール
+#### 職業 : 大学生(情報工学専攻)
 #### 大学 : 名城大学
+#### 趣味 : ゲーム・アニメ
+### 将来の展望
+XR系エンジニアとしてAR・VRの活用場面をもっと増やしたい！アッと驚くような体験をできるVRや現実と融合したようなARを提供できるようになっていきたい！
 
 <!--
 **MR-1213/MR-1213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
