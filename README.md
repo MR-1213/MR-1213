@@ -23,7 +23,7 @@ XR系エンジニアとしてAR・VRの活用場面をもっと増やしたい�
   </a>  
 
 ### Trophies & Most Used Languages
-[![trophy](https://github-profile-trophy.vercel.app/?username=MR-1213)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MR-1213)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-1213&layout=compact)
 
 <!--
