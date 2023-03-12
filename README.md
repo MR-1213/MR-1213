@@ -8,6 +8,8 @@
 ### 将来の展望
 XR系エンジニアとしてAR・VRの活用場面をもっと増やしたい！アッと驚くような体験をできるVRや現実と融合したようなARを提供できるようになっていきたい！
 
+![](https://komarev.com/ghpvc/?username=MR-1213)
+
 <p align="left">
 </p>
 
