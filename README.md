@@ -41,7 +41,7 @@ XR系エンジニアとしてAR・VRの活用場面をもっと増やしたい�
 Unity / ARFoundation / GeospatialAPI / PLATEAU SDK / (Stable Diffusion) / (Blender) / (AWS) / (Firebase)
 
 ### 開発物
-「シンジュクを、‘映え’の世界に染め上げて」をテーマにしており、その場所で感じた感情を絵で表現し、その絵を用いて新しい画像として生成されるアプリ。
+作品名"areal AirReal" 「シンジュクを、‘映え’の世界に染め上げて」をテーマにしており、その場所で感じた感情を絵で表現し、その絵を用いて新しい画像として生成されるアプリ。
 また、生成した画像と場所が保存されるため、他の人が書いた絵見ることもできる。
 
 ### 具体的な担当箇所
@@ -57,3 +57,29 @@ Unity / ARFoundation / GeospatialAPI / PLATEAU SDK / (Stable Diffusion) / (Blend
 https://neuu.jp/miraitoshi
 
 <img width="568" alt="NEUU_areal-AirReal" src="https://user-images.githubusercontent.com/115085374/220935225-e1ea5028-cedd-4cd6-9468-bf46d5ca0512.png">
+
+## チーム開発プロジェクト(2023/02～03)
+
+### 概要
+自分の所属する学生団体であるIdea×Tech内で行われたミニハッカソン。Idea×Techのメンバー4人とともにUnityエンジニアとして参加した。
+
+### 使用技術・フレームワーク(カッコ付きは自身の触れていない使用技術)
+Unity(URP) / ARFoundation / GeospatialAPI / PLATEAU SDK / (Blender) / (CUBASE)
+
+### 開発物
+作品名"Building Block Beats" 特定のランドマークをスマートフォンで映すと、その建物から出現したノーツを音楽のリズムに合わせてタップして遊べるAR音ゲー。
+
+### 具体的な担当箇所
+フロントエンドとバックエンドを両方担当。ゲームのUIやアプリ立ち上げから遊ぶまでの流れ作りをし、建物からノーツが出現する仕組みをGeospatialAPIやPLATEAU、URPのシェーダーグラフなどを活用して実現した。
+
+### 学んだこと・良かったこと
+・ARは遊べるようにするためのシステム作りも大変だが、実際にランドマークを映してみた際のゲーム画面の見え方やノーツの流れる速度や見た目を考え、調整することがより大変な作業であったことを
+　フロント側を開発していて分かった。
+・ARゲームがどのように作られるかを前回の未来都市wihtARハッカソンも踏まえて理解することができ、XR開発の知見がより深まった。
+
+### 今後の課題
+・ノーツのタイミングを曲ごとに考え、考えたタイミングで叩けるような仕組み作りをしたい。
+・UIの豪華さを高めることにもより力を入れたい。
+
+### プロジェクト
+https://github.com/thomas0124/Idea-Tech-teamproject
