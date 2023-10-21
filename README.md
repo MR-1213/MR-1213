@@ -127,3 +127,6 @@ Unity / Oculus Integration
 ### 今後の改善点
 まずは、完成を目指したい。
 UIなどが仮のままなのでデザインの知識も取り入れながら見やすく、ストレスのないものを作っていくようにしたい。
+
+### プロジェクト
+https://github.com/MR-1213/TowerDefenseVR
